@@ -7,4 +7,6 @@
 \f0\fs24 \cf0 Git is a distributed version control system.\
 Git is free software.\
 Git is a distributed version control system.\
-Git is free distributed under the GPL.}
+Git is free distributed under the GPL.
+Git tracks changes.
+}
